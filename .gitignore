@@ -302,3 +302,4 @@ dmypy.json
 
 # virtual env
 venv/
+.virtual_documents
